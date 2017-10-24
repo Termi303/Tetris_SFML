@@ -4,7 +4,7 @@ The game is playable. However, Leaderboard section is not implemented and there 
 
 The project was developed in Mac OS X (Xcode).
 
-All images are created by me (I used GIMP).
+All images and programs are created by me (I used GIMP).
 C++ programs and images are in Tetris directory.
 
 Short description of programs:
@@ -16,4 +16,4 @@ Short description of programs:
 - menu.h and menu.cpp - These programs implement details of menu section: choosing font, sizes, etc.
 - main.cpp - Just start the program, create Game object and start the game.
 
-
+Author: Igor Dolecki (Termi303)
