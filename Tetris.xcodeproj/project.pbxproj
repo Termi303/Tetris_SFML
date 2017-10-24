@@ -15,8 +15,6 @@
 		05B4DC6C1D44D94C0084F0CD /* gameplay.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 05B4DC6A1D44D94C0084F0CD /* gameplay.cpp */; };
 		05E3A5081D18448E0099FF8F /* ResourcePath.mm in Sources */ = {isa = PBXBuildFile; fileRef = 05E3A5071D18448E0099FF8F /* ResourcePath.mm */; };
 		05E3A50B1D18448E0099FF8F /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 05E3A50A1D18448E0099FF8F /* main.cpp */; };
-		05E3A5121D18448F0099FF8F /* sansation.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 05E3A5111D18448F0099FF8F /* sansation.ttf */; };
-		05E3A5141D18448F0099FF8F /* icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 05E3A5131D18448F0099FF8F /* icon.png */; };
 		05E3A51D1D1845160099FF8F /* SF Atarian System.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 05E3A51C1D1845160099FF8F /* SF Atarian System.ttf */; };
 		05E3A51F1D1845360099FF8F /* SF Atarian System Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 05E3A51E1D1845360099FF8F /* SF Atarian System Bold.ttf */; };
 		05E3A5231D1851B40099FF8F /* game.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 05E3A5221D1851B40099FF8F /* game.cpp */; };
@@ -38,8 +36,6 @@
 		05E3A5071D18448E0099FF8F /* ResourcePath.mm */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.objcpp; path = ResourcePath.mm; sourceTree = "<group>"; };
 		05E3A5091D18448E0099FF8F /* ResourcePath.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = ResourcePath.hpp; sourceTree = "<group>"; };
 		05E3A50A1D18448E0099FF8F /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
-		05E3A5111D18448F0099FF8F /* sansation.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = sansation.ttf; sourceTree = "<group>"; };
-		05E3A5131D18448F0099FF8F /* icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon.png; sourceTree = "<group>"; };
 		05E3A51C1D1845160099FF8F /* SF Atarian System.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "SF Atarian System.ttf"; sourceTree = "<group>"; };
 		05E3A51E1D1845360099FF8F /* SF Atarian System Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "SF Atarian System Bold.ttf"; sourceTree = "<group>"; };
 		05E3A5201D1846280099FF8F /* game.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = game.h; sourceTree = "<group>"; };
@@ -110,8 +106,6 @@
 				055091D11D43911F00C7352A /* background.png */,
 				05E3A51E1D1845360099FF8F /* SF Atarian System Bold.ttf */,
 				05E3A51C1D1845160099FF8F /* SF Atarian System.ttf */,
-				05E3A5111D18448F0099FF8F /* sansation.ttf */,
-				05E3A5131D18448F0099FF8F /* icon.png */,
 			);
 			name = Resources;
 			sourceTree = "<group>";
@@ -173,10 +167,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				05E3A5141D18448F0099FF8F /* icon.png in Resources */,
 				055091D21D43911F00C7352A /* background.png in Resources */,
 				05B4DC691D44D4430084F0CD /* board.png in Resources */,
-				05E3A5121D18448F0099FF8F /* sansation.ttf in Resources */,
 				0556BA061D1C636400B7549B /* brick.png in Resources */,
 				05E3A51D1D1845160099FF8F /* SF Atarian System.ttf in Resources */,
 				05E3A51F1D1845360099FF8F /* SF Atarian System Bold.ttf in Resources */,
